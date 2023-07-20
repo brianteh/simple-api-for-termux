@@ -1,0 +1,5 @@
+termux-setup-storage to access storage of phone
+tar xvzf xxx.tar.gz
+mv ngrok to kali-fs then to root
+./start-kali.sh
+./ngrok config add-authtoken 2Qk9GoT0FpqgByqCwB8PFHns1YC_7T2MJZGVu1o7WDBCHXMpW

@@ -22,7 +22,7 @@ app.get('/L',(req,res,next)=>{
     res.send("LOLO")
 })
 
-app.post()
+
 
 server.listen(3001,()=>{
     console.log("Server running...");
